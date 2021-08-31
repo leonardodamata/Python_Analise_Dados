@@ -7,9 +7,9 @@
 1. Python_Com_MondoBD - Trabalhando com Python e MongoDB
 1. Mini_Projeto_1 - Mini Projeto 1 - Guia de Análise Exploratória de Dados com Python, Liguagem SQL e Banco de Dados SQLite
 
-    - Neste Mini-Projeto vamos apresentar um guia básico de análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no [imdb](https://www.imdb.com/interfaces/).
+    Neste Mini-Projeto vamos apresentar um guia básico de análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no [imdb](https://www.imdb.com/interfaces/).
     
-    - Ao aplicar Análise Exploratória de Dados vamos responder a estas 10 perguntas:
+    Ao aplicar Análise Exploratória de Dados vamos responder a estas 10 perguntas:
     
     - 1- Quais São as Categorias de Filmes Mais Comuns no IMDB?
     - 2- Qual o Número de Títulos Por Gênero?
