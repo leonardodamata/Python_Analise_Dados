@@ -13,7 +13,7 @@
     
     - 1- Quais São as Categorias de Filmes Mais Comuns no IMDB?
     
-        <img src="/imagem/resposta01" alt="Distribuição de Títulos"/>
+        <img src="/imagem/resposta01.png" alt="Distribuição de Títulos"/>
     
     - 2- Qual o Número de Títulos Por Gênero?
     
