@@ -12,7 +12,12 @@
     Ao aplicar Análise Exploratória de Dados vamos responder a estas 10 perguntas:
     
     - 1- Quais São as Categorias de Filmes Mais Comuns no IMDB?
+    
+        <img src="/imagem/resposta01" alt="Distribuição de Títulos"/>
+    
     - 2- Qual o Número de Títulos Por Gênero?
+    
+    
     - 3- Qual a Mediana de Avaliação dos Filmes Por Gênero?
     - 4- Qual a Mediana de Avaliação dos Filmes Em Relação ao Ano de Estréia?
     - 5- Qual o Número de Filmes Avaliados Por Gênero Em Relação ao Ano de Estréia?
