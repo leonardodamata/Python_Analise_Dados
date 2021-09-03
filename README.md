@@ -5,7 +5,7 @@
 1. [Orientacao_a_Objetos](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Orientacao_a_Objetos.ipynb) - Orientação a Objetos
 1. [Manipulando_Banco_de_dados_em_python](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Manipulando_Banco_de_dados_em_python.ipynb) - Manipulando Banco de Dados em Python - SQLite
 1. [Python_Com_MondoBD](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Python_Com_MondoBD.ipynb) - Trabalhando com Python e MongoDB
-1. (Mini_Projeto_1)[https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto_1.ipynb] - Mini Projeto 1 - Guia de Análise Exploratória de Dados com Python, Liguagem SQL e Banco de Dados SQLite
+1. [Mini_Projeto_1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto_1.ipynb) - Mini Projeto 1 - Guia de Análise Exploratória de Dados com Python, Linguagem SQL e Banco de Dados SQLite
 
     Neste Mini-Projeto vamos apresentar um guia básico de análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no [imdb](https://www.imdb.com/interfaces/).
 
