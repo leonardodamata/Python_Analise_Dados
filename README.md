@@ -1,8 +1,8 @@
 # Python Fundamentos Para Análise de Dados
 
 
-1. Aula - Variáveis, Tipos e Estruturas de Dados, Loops, Condicionais, Métodos e Funções, Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
-1. Orientacao_a_Objetos - Orientação a Objetos
+1. [Aula](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Aula.ipynb) - Variáveis, Tipos e Estruturas de Dados, Loops, Condicionais, Métodos e Funções, Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+1. [Orientacao_a_Objetos](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Orientacao_a_Objetos.ipynb) - Orientação a Objetos
 1. Manipulando_Banco_de_dados_em_python - Manipulando Banco de Dados em Python - SQLite
 1. Python_Com_MondoBD - Trabalhando com Python e MongoDB
 1. Mini_Projeto_1 - Mini Projeto 1 - Guia de Análise Exploratória de Dados com Python, Liguagem SQL e Banco de Dados SQLite
