@@ -16,7 +16,8 @@
         <img src="/imagem/resposta01.png" alt="Distribuição de Títulos"/>
 
     - 2- Qual o Número de Títulos Por Gênero?
-
+        
+        <img src="/imagem/resposta02.png" alt="Número (Percentual) de Titulos Por Gênero"/>
 
     - 3- Qual a Mediana de Avaliação dos Filmes Por Gênero?
     - 4- Qual a Mediana de Avaliação dos Filmes Em Relação ao Ano de Estréia?
