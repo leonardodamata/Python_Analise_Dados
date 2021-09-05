@@ -20,8 +20,17 @@
         <img src="/imagem/resposta02.png" alt="Número (Percentual) de Titulos Por Gênero"/>
 
     - 3- Qual a Mediana de Avaliação dos Filmes Por Gênero?
+    
+        <img src="/imagem/resposta03.png" alt="Mediana de Avaliação Por Gênero"/>
+        
     - 4- Qual a Mediana de Avaliação dos Filmes Em Relação ao Ano de Estréia?
+    
+        <img src="/imagem/resposta04.png" alt="Mediana de Avaliação dos Filmes Em Relação ao Ano de Estréia"/>
+        
     - 5- Qual o Número de Filmes Avaliados Por Gênero Em Relação ao Ano de Estréia?
+    
+        <img src="/imagem/resposta05.png" alt="Número de Filmes Avaliados Por Gênero Em Relação ao Ano de Estréia"/>
+        
     - 6- Qual o Filme Com Maior Tempo de Duração? Calcule os Percentis.
     - 7- Qual a Relação Entre Duração e Gênero?
     - 8- Qual o Número de Filmes Produzidos Por País?
