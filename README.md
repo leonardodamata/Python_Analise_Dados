@@ -32,10 +32,24 @@
         <img src="/imagem/resposta05.png" alt="Número de Filmes Avaliados Por Gênero Em Relação ao Ano de Estréia"/>
         
     - 6- Qual o Filme Com Maior Tempo de Duração? Calcule os Percentis.
+    
+        <img src="/imagem/resposta06.png" alt="Filme Com Maior Tempo de Duração"/>
+        
     - 7- Qual a Relação Entre Duração e Gênero?
+    
+        <img src="/imagem/resposta07.png" alt="Relação Entre Duração e Gênero"/>
+        
     - 8- Qual o Número de Filmes Produzidos Por País?
+    
+        <img src="/imagem/resposta08.png" alt="Número de Filmes Produzidos Por País"/>
+        
     - 9- Quais São os Top 10 Melhores Filmes?
+    
+         <img src="/imagem/resposta09.png" alt="Top 10 Filmes com a melhor avaliação e mais de 25 mil votos."/>
+         
     - 10- Quais São os Top 10 Piores Filmes?
+    
+        <img src="/imagem/resposta10.png" alt="Top 10 Filmes com a pior avaliação e mais de 25 mil votos."/>
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
