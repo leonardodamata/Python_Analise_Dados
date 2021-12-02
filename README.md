@@ -54,3 +54,5 @@
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
 - [Lab03/forca_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab03/forca_v1.py) - Jogo da Forca em Python
+
+- [DesafioDSA/Missao01](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/DesafioDSA/Missao01/missao01.ipynb) - Missão: Implementar um algoritmo para determinar se uma string possui todos os caracteres exclusivos.
