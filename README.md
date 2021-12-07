@@ -51,13 +51,14 @@
 
         <img src="/imagem/resposta10.png" alt="Top 10 Filmes com a pior avaliação e mais de 25 mil votos."/>
 
+1. [Modulos_Python_para_Analise_de_Dados_Numpy](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Modulos_Python_para_Analise_de_Dados_Numpy.ipynb) - Módulo Python para Análise de Dados com NumPy
+    - Criando Arrays
+    - Funções NumPy
+    - Criando Matrizes
+    - Métodos e Operações
+    - Estatística
+    - Slicing de Arrays
+
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
 - [Lab03/forca_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab03/forca_v1.py) - Jogo da Forca em Python
-1. [Modulos_Python_para_Analise_de_Dados_Numpy](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Modulos_Python_para_Analise_de_Dados_Numpy.ipynb) - Módulos Python para Análise de Dados com NumPy
-  - Criando Arrays
-  - Funções NumPy
-  - Criando Matrizes
-  - Métodos e Operações
-  - Estatística
-  - Slicing de Arrays
