@@ -59,6 +59,15 @@
     - Estatística
     - Slicing de Arrays
 
+1. [Modulo_Pandas](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Modulo_Pandas.ipynb) - Módulo Python para Análise de Dados com Pandas
+    - Criando Séries
+    - Manipulando Séries
+    - Criando Dataframes
+    - Dataframes com Pandas e NumPy
+    - Dataframes e Arquivos CSV
+    - Séries Temporias e Pltting
+
+
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
 - [Lab03/forca_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab03/forca_v1.py) - Jogo da Forca em Python
