@@ -65,7 +65,7 @@
     - Criando Dataframes
     - Dataframes com Pandas e NumPy
     - Dataframes e Arquivos CSV
-    - Séries Temporias e Pltting
+    - Séries Temporias e Plotting
 
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
