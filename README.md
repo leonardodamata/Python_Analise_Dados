@@ -67,6 +67,18 @@
     - Dataframes e Arquivos CSV
     - Séries Temporias e Plotting
 
+1. [Modulo_Matplotlib](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Modulo_Matplotlib.ipynb) - Módulo Python para Análise de Dados com Matplotlib
+    - Visualizando com Matplotlib
+    - Construindo Plots
+    - Gráficos
+    - Pylab
+    - Gráficos a Partir do NumPy
+    - Gráficos 3D
+    - Mapas   
+
+1. [Modulo_Computação_Cientifica_SciPy](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Modulo_Computação_Cientifica_SciPy.ipynb) - Para compreender o SciPy é necessário compreender conceitos avançados de Matemática e Estatística, o que está fora do escopo deste treinamento. Caso queira aprender aplicações práticas do pacote em Machine Learning e IA. Esse notebook é apenas para ter uma noção de SciPy. Pois ele é estudado em outra formação.
+    - SciPy     
+
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
