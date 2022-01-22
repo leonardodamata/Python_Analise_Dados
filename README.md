@@ -80,8 +80,10 @@
     - SciPy
     - Scikit-Learn - Como Identificar o Algoritmo de Machine Learning
     - Scikit-Learn - Prevendo o Preço da Pizza
-    - Scikit-Learn - O que o Modelo Realmente Aprende?     
+    - Scikit-Learn - O que o Modelo Realmente Aprende?
+    - Scikit-Learn - Prevendo o Preço de Casas - Boston Housing
 
+1. [bokeh](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/bokeh.ipynb) - Bokeh é uma biblioteca Python para visualização interativa que tem como alvo os navegadores da Web para representação. Esta é a principal diferença entre Bokeh e outras bibliotecas de visualização. Veja a figura abaixo que explica o fluxo de processo sobre como o Bokeh ajuda a apresentar dados a um navegador da Web.
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
