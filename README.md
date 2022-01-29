@@ -91,6 +91,19 @@
     - Bokeh Gráfico de Círculos
     - Bokeh Gráfico com Dados Geofísicos
 
+1. [StatsModels](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/StatsModels.ipynb) - StatsModels é  um pacote Python que fornece um complemento ao scipy para cálculos estatísticos, incluindo estatísticas descritivas e estimativa e inferência para modelos estatísticos.
+
+    - Linear Regression Models
+
+1. [Seaborn](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/seaborn.ipynb) - Seaborn é uma biblioteca de visualização de dados Python baseada em matplotlib . Ele fornece uma interface de alto nível para desenhar gráficos estatísticos atraentes e informativos.
+
+    - jointplot
+    - lmplot
+    - Scatter Plot
+    - Density Plot
+    - Histograma
+    - Box plot
+    - Violin Plot
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
