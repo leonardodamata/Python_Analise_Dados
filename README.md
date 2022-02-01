@@ -108,6 +108,10 @@
     - Clutermap
     - Temas do Seaborn: palplot e tsplot
     - Histogramas com subsets dos dados
+    - Diversos plots simultâneos
+    - Plot com distribuições marginais
+    - Regressão Logística
+    - Regressão Linear com Distribuições Marginais
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
