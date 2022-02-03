@@ -112,6 +112,9 @@
     - Plot com distribuições marginais
     - Regressão Logística
     - Regressão Linear com Distribuições Marginais
+    - Pair Plot
+
+1. [Análise Exploratória de Dados](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Analise_Exploratoria_Dados.ipynb) - A análise exploratória de dados (EDA) é usada por cientistas de dados para analisar e investigar conjuntos de dados e resumir suas principais características, muitas vezes usando métodos de visualização de dados. Ela permite determinar a melhor forma de controlar as fontes de dados para obter as respostas que você precisa, tornando mais fácil para os cientistas de dados descobrir padrões, detectar anomalias, testar uma hipótese ou verificar suposições.
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
