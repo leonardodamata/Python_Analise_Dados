@@ -119,7 +119,10 @@
 Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.com/) com programadores do software nos EUA que frequentam treinamentos Bootcamp.
 
     - Distribuição de Idade: A maiora dos profissionais que trabalham como programadores de # software estão na faixa de idade entre 20 e 30 anos, sendo 25 anos a idade mais frequente.
-    - Distribuição de Sexo: A grande maioria dos programadores são do sexo masculino
+    - Distribuição de Sexo: A grande maioria dos programadores são do sexo masculino.
+    - Distribuição de Interesses: O principal interesse profissional dos programadores é desenvolvimento web (Full-Stack, Front-End e Back-End), seguindo pela área de Data Science.
+    - Distribuição de Empregabilidade: A maioria dos programadores trabalha na área de desenvolvimento de softwares e TI, mas outras áreas como finançs e saúde também são  significativas.
+    - Preferências de Trabalho por Idade: Quais são as preferências de Trabalho por Idade?
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
