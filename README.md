@@ -123,6 +123,7 @@ Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.co
     - Distribuição de Interesses: O principal interesse profissional dos programadores é desenvolvimento web (Full-Stack, Front-End e Back-End), seguindo pela área de Data Science.
     - Distribuição de Empregabilidade: A maioria dos programadores trabalha na área de desenvolvimento de softwares e TI, mas outras áreas como finançs e saúde também são  significativas.
     - Preferências de Trabalho por Idade: Quais são as preferências de Trabalho por Idade?
+    - Realocação por Idade:  Qual o objetivo de realocação?
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
