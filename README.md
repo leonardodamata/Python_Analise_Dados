@@ -126,8 +126,9 @@ Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.co
     - Realocação por Idade:  Qual o objetivo de realocação?
     - Idade x Horas de Aprendizagem: Qual a relação entre idade e horas de aprendizagem?
     - Investimento em Capacitação x Espectativa Salarial: Qual a relação entre investimento em capacitação e expectativa salarial?
-    - [Exercícios para Fixar o Conhecimento](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/DSA-Python-Cap09-Exercicio.ipynb) -  Exercícios
+
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
 - [Lab03/forca_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab03/forca_v1.py) - Jogo da Forca em Python
+- [Exercícios para Fixar o Conhecimento](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/DSA-Python-Cap09-Exercicio.ipynb) -  Exercícios
