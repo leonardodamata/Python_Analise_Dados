@@ -127,7 +127,7 @@ Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.co
     - Idade x Horas de Aprendizagem: Qual a relação entre idade e horas de aprendizagem?
     - Investimento em Capacitação x Espectativa Salarial: Qual a relação entre investimento em capacitação e expectativa salarial?
 
-1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2 - Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
+1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
 
 Este Mini-Projeto vai demonstrar alguns métodos e técnicas de análise exploratória de dados comuns, usando Python.
 
