@@ -137,7 +137,17 @@ Link para o dataset (já fornecido com os notebooks do Mini-Projeto):[https://ww
 
 Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
 
-- 1- Distribuição de Veículos com base no Ano de Registro
+    - 1- Distribuição de Veículos com base no Ano de Registro:
+
+      <img src="/Mini_Projeto/2/plots/Analise1/vehicle-distribution.png" alt="Distribuição de Veículos vom base no Ano de Registro."/>
+
+    - 2- Variação da faixa de preço pelo tipo de veículo:
+
+      <img src="/Mini_Projeto/2/plots/Analise1/price-vehicleType-boxplot.png" alt="Variação da faixa de preço pelo tipo de veículo."/>
+
+    - 3- Contagem total de veículos à venda conforme o tipo de veículo:
+
+      <img src="/Mini_Projeto/2/plots/Analise1/count-vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
 
 
 
