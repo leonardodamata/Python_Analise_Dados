@@ -152,11 +152,13 @@
         <img src="/Mini_Projeto/2/plots/Analise1/count_vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
 
 
-    - 1- Quais São as Categorias de Filmes Mais Comuns no IMDB?
-
-        <img src="/imagem/Mini_Projeto/1/resposta01.png" alt="Distribuição de Títulos"/>
-
 1. [Mini-Projeto2 - Analise2](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise2.ipynb) - Mini-Projeto 2 -  Análise 02 - Análise Exploratória em Conjunto de Dados do Kaggle.
+
+    Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
+
+    - 1- Número de veículos pertencentes a cada marca:
+
+      <img src="/Mini_Projeto/2/plots/Analise2/brand_vehicleCount.png" alt="Número de veículos pertencentes a cada marca."/>
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
