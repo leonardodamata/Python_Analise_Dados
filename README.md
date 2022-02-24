@@ -116,6 +116,9 @@
 
 1. [Análise Exploratória de Dados](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Analise_Exploratoria_Dados.ipynb) - A análise exploratória de dados (EDA) é usada por cientistas de dados para analisar e investigar conjuntos de dados e resumir suas principais características, muitas vezes usando métodos de visualização de dados. Ela permite determinar a melhor forma de controlar as fontes de dados para obter as respostas que você precisa, tornando mais fácil para os cientistas de dados descobrir padrões, detectar anomalias, testar uma hipótese ou verificar suposições.
 
+
+1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
+
   Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.com/) com programadores do software nos EUA que frequentam treinamentos Bootcamp.
 
       - Distribuição de Idade: A maiora dos profissionais que trabalham como programadores de # software estão na faixa de idade entre 20 e 30 anos, sendo 25 anos a idade mais frequente.
