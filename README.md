@@ -117,18 +117,23 @@
 1. [Análise Exploratória de Dados](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Analise_Exploratoria_Dados.ipynb) - A análise exploratória de dados (EDA) é usada por cientistas de dados para analisar e investigar conjuntos de dados e resumir suas principais características, muitas vezes usando métodos de visualização de dados. Ela permite determinar a melhor forma de controlar as fontes de dados para obter as respostas que você precisa, tornando mais fácil para os cientistas de dados descobrir padrões, detectar anomalias, testar uma hipótese ou verificar suposições.
 
 
+    Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.com/) com programadores do software nos EUA que frequentam treinamentos Bootcamp.
+
+    - Distribuição de Idade: A maiora dos profissionais que trabalham como programadores de # software estão na faixa de idade entre 20 e 30 anos, sendo 25 anos a idade mais frequente.
+    - Distribuição de Sexo: A grande maioria dos programadores são do sexo masculino.
+    - Distribuição de Interesses: O principal interesse profissional dos programadores é desenvolvimento web (Full-Stack, Front-End e Back-End), seguindo pela área de Data Science.
+    - Distribuição de Empregabilidade: A maioria dos programadores trabalha na área de desenvolvimento de softwares e TI, mas outras áreas como finançs e saúde também são  significativas.
+    - Preferências de Trabalho por Idade: Quais são as preferências de Trabalho por Idade?
+    - Realocação por Idade:  Qual o objetivo de realocação?
+    - Idade x Horas de Aprendizagem: Qual a relação entre idade e horas de aprendizagem?
+    - Investimento em Capacitação x Espectativa Salarial: Qual a relação entre investimento em capacitação e expectativa salarial?
+
+
 1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
 
-  Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.com/) com programadores do software nos EUA que frequentam treinamentos Bootcamp.
 
-      - Distribuição de Idade: A maiora dos profissionais que trabalham como programadores de # software estão na faixa de idade entre 20 e 30 anos, sendo 25 anos a idade mais frequente.
-      - Distribuição de Sexo: A grande maioria dos programadores são do sexo masculino.
-      - Distribuição de Interesses: O principal interesse profissional dos programadores é desenvolvimento web (Full-Stack, Front-End e Back-End), seguindo pela área de Data Science.
-      - Distribuição de Empregabilidade: A maioria dos programadores trabalha na área de desenvolvimento de softwares e TI, mas outras áreas como finançs e saúde também são  significativas.
-      - Preferências de Trabalho por Idade: Quais são as preferências de Trabalho por Idade?
-      - Realocação por Idade:  Qual o objetivo de realocação?
-      - Idade x Horas de Aprendizagem: Qual a relação entre idade e horas de aprendizagem?
-      - Investimento em Capacitação x Espectativa Salarial: Qual a relação entre investimento em capacitação e expectativa salarial?
+
+
 
 1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
 
