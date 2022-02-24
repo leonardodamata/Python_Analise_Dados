@@ -137,7 +137,7 @@
 
     Link para o dataset (já fornecido com os notebooks do Mini-Projeto):[https://www.kaggle.com/orgesleka/used-cars-database](https://www.kaggle.com/orgesleka/used-cars-database)
 
-Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
+    Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
 
     - 1- Distribuição de Veículos com base no Ano de Registro:
 
@@ -150,6 +150,11 @@ Ao aplicar Análise Exploratória de Dados vamos responder as seguintes pergunta
     - 3- Contagem total de veículos à venda conforme o tipo de veículo:
 
         <img src="/Mini_Projeto/2/plots/Analise1/count_vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
+
+
+    - 1- Quais São as Categorias de Filmes Mais Comuns no IMDB?
+
+        <img src="/imagem/Mini_Projeto/1/resposta01.png" alt="Distribuição de Títulos"/>
 
 1. [Mini-Projeto2 - Analise2](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise2.ipynb) - Mini-Projeto 2 -  Análise 02 - Análise Exploratória em Conjunto de Dados do Kaggle.
 
