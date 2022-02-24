@@ -129,19 +129,13 @@
     - Investimento em Capacitação x Espectativa Salarial: Qual a relação entre investimento em capacitação e expectativa salarial?
 
 
-1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
+1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise 01 - Análise Exploratória em Conjunto de Dados do Kaggle.
 
+    Este Mini-Projeto vai demonstrar alguns métodos e técnicas de análise exploratória de dados comuns, usando Python.
 
+    Vamos trabalhar com o dataset de carros usados fornecido pelo Kaggle, pois é um dos conjuntos de dados ideais para a realização de Análise Exploratória de Dados permitindo assim uma melhor compreensão das atividades principais
 
-
-
-1. [Mini-Projeto2 - Analise1](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise1.ipynb) - Mini-Projeto 2 - Análise Exploratória em Conjunto de Dados do Kaggle.
-
-Este Mini-Projeto vai demonstrar alguns métodos e técnicas de análise exploratória de dados comuns, usando Python.
-
-Vamos trabalhar com o dataset de carros usados fornecido pelo Kaggle, pois é um dos conjuntos de dados ideais para a realização de Análise Exploratória de Dados permitindo assim uma melhor compreensão das atividades principais
-
-Link para o dataset (já fornecido com os notebooks do Mini-Projeto):[https://www.kaggle.com/orgesleka/used-cars-database](https://www.kaggle.com/orgesleka/used-cars-database)
+    Link para o dataset (já fornecido com os notebooks do Mini-Projeto):[https://www.kaggle.com/orgesleka/used-cars-database](https://www.kaggle.com/orgesleka/used-cars-database)
 
 Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
 
@@ -157,7 +151,7 @@ Ao aplicar Análise Exploratória de Dados vamos responder as seguintes pergunta
 
         <img src="/Mini_Projeto/2/plots/Analise1/count_vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
 
-
+1. [Mini-Projeto2 - Analise2](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/1/Mini-Projeto2-Analise2.ipynb) - Mini-Projeto 2 -  Análise 02 - Análise Exploratória em Conjunto de Dados do Kaggle.
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
