@@ -139,15 +139,15 @@ Ao aplicar Análise Exploratória de Dados vamos responder as seguintes pergunta
 
     - 1- Distribuição de Veículos com base no Ano de Registro:
 
-      <img src="/Mini_Projeto/2/plots/Analise1/vehicle-distribution.png" alt="Distribuição de Veículos vom base no Ano de Registro."/>
+      <img src="/Mini_Projeto/2/plots/Analise1/vehicle_distribution.png" alt="Distribuição de Veículos vom base no Ano de Registro."/>
 
     - 2- Variação da faixa de preço pelo tipo de veículo:
 
-      <img src="/Mini_Projeto/2/plots/Analise1/price-vehicleType-boxplot.png" alt="Variação da faixa de preço pelo tipo de veículo."/>
+      <img src="/Mini_Projeto/2/plots/Analise1/price_vehicleType_boxplot.png" alt="Variação da faixa de preço pelo tipo de veículo."/>
 
     - 3- Contagem total de veículos à venda conforme o tipo de veículo:
 
-      <img src="/Mini_Projeto/2/plots/Analise1/count-vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
+      <img src="/Mini_Projeto/2/plots/Analise1/count_vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
 
 
 
