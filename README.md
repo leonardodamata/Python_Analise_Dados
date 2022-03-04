@@ -152,13 +152,17 @@
         <img src="/Mini_Projeto/2/plots/Analise1/count_vehicleType.png" alt="Contagem total de veículos à venda conforme o tipo de veículo."/>
 
 
-1. [Mini-Projeto2 - Analise2](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/2/Mini-Projeto2-Analise2.ipynb) - Mini-Projeto 2 -  Análise 02 - Análise Exploratória em Conjunto de Dados do Kaggle.
+1. [Mini-Projeto2 - Analise2](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/2/Mini-Projeto2-Analise2.ipynb) - Análise Exploratória em Conjunto de Dados do Kaggle.
 
     Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
 
     - 1- Número de veículos pertencentes a cada marca:
 
-      <img src="/Mini_Projeto/2/plots/Analise2/brand-vehicleCount.png" alt="Número de veículos pertencentes a cada marca."/>
+      <img src="/Mini_Projeto/2/plots/Analise2/brand_vehicleCount.png" alt="Número de veículos pertencentes a cada marca."/>
+
+    - 1- Preço médio dos veículos com base no tipo de veículo, bem como no tipo de caixa de câmbio:  
+
+      <img src="/Mini_Projeto/2/plots/Analise2/vehicletype_gearbox_price.png" alt="Preço médio dos veículos por tipo de veículo e tipo de caixa de câmbio."/>
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
