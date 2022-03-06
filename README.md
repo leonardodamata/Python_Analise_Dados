@@ -119,7 +119,7 @@
 
     Pesquisa Salarial realizada pelo site [freecodecamp](https://www.freecodecamp.com/) com programadores do software nos EUA que frequentam treinamentos Bootcamp.
 
-    - Distribuição de Idade: A maiora dos profissionais que trabalham como programadores de # software estão na faixa de idade entre 20 e 30 anos, sendo 25 anos a idade mais frequente.
+    - Distribuição de Idade: A maiora dos profissionais que trabalham como programadores de software estão na faixa de idade entre 20 e 30 anos, sendo 25 anos a idade mais frequente.
     - Distribuição de Sexo: A grande maioria dos programadores são do sexo masculino.
     - Distribuição de Interesses: O principal interesse profissional dos programadores é desenvolvimento web (Full-Stack, Front-End e Back-End), seguindo pela área de Data Science.
     - Distribuição de Empregabilidade: A maioria dos programadores trabalha na área de desenvolvimento de softwares e TI, mas outras áreas como finançs e saúde também são  significativas.
@@ -176,7 +176,7 @@
 
         <img src="/Mini_Projeto/2/plots/Analise3/vehicletype_fueltype_power.png" alt="Potência média de um veículo por tipo de veículo e tipo de caixa de câmbio."/>  
 
-1. [Mini-Projeto2 - Analise4](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/2/Mini-Projeto2-Analise4.ipynbb) - Análise Exploratória em Conjunto de Dados do Kaggle.     
+1. [Mini-Projeto2 - Analise4](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/2/Mini-Projeto2-Analise4.ipynb) - Análise Exploratória em Conjunto de Dados do Kaggle.     
 
     Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
 
@@ -188,6 +188,9 @@
 
       <img src="/Mini_Projeto/2/plots/Analise4/heatmap_price_brand_vehicleType.png" alt="Preço médio de um veículo por marca, bem como tipo de veículo."/>  
 
+1. [TensorFlow](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/tensorflow.ipynb) - TensorFlow é uma biblioteca de código aberto para aprendizado de máquina aplicável a uma ampla variedade de tarefas. É um sistema para criação e treinamento de redes neurais para detectar e decifrar padrões e correlações, análogo à forma como humanos aprendem e raciocinam.
+
+    - Hello World
 
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
