@@ -176,6 +176,20 @@
 
         <img src="/Mini_Projeto/2/plots/Analise3/vehicletype_fueltype_power.png" alt="Potência média de um veículo por tipo de veículo e tipo de caixa de câmbio."/>  
 
+1. [Mini-Projeto2 - Analise4](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/2/Mini-Projeto2-Analise4.ipynbb) - Análise Exploratória em Conjunto de Dados do Kaggle.     
+
+    Ao aplicar Análise Exploratória de Dados vamos responder as seguintes perguntas:
+
+    - 1- Calcule a média de preço por marca e por veículo:
+
+      <img src="/Mini_Projeto/2/plots/Analise4/avg.png" alt="Calcule a média de preço por marca e por veículo."/>  
+
+    - 2- Preço médio de um veículo por marca, bem como tipo de veículo:
+
+      <img src="/Mini_Projeto/2/plots/Analise4/heatmap_price_brand_vehicleType.png" alt="Preço médio de um veículo por marca, bem como tipo de veículo."/>  
+
+
+
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
 - [Lab03/forca_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab03/forca_v1.py) - Jogo da Forca em Python
