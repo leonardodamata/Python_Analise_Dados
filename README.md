@@ -170,7 +170,11 @@
 
     - 1- Preço médio do veículo por tipo de combustível e tipo de caixa de câmbio:
 
-      <img src="/Mini_Projeto/2/plots/Analise2/fueltype_vehicleType_price.png" alt="Preço médio do veículo por tipo de combustível e tipo de caixa de câmbio."/>
+      <img src="/Mini_Projeto/2/plots/Analise3/fueltype_vehicleType_price.png" alt="Preço médio do veículo por tipo de combustível e tipo de caixa de câmbio."/>
+
+    - 2- Potência média de um veículo por tipo de veículo e tipo de caixa de câmbio:
+
+        <img src="/Mini_Projeto/2/plots/Analise3/vehicletype_fueltype_power.png" alt="Potência média de um veículo por tipo de veículo e tipo de caixa de câmbio."/>  
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
