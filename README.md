@@ -191,6 +191,13 @@
 1. [TensorFlow](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/tensorflow.ipynb) - TensorFlow é uma biblioteca de código aberto para aprendizado de máquina aplicável a uma ampla variedade de tarefas. É um sistema para criação e treinamento de redes neurais para detectar e decifrar padrões e correlações, análogo à forma como humanos aprendem e raciocinam.
 
     - Hello World
+    - Operações Matemáticas com Tensores
+      - Soma
+      - Subtração
+      - Divisão
+      - Multiplicação
+    - Usando Variáveis
+    - Outras Formas de Criar Tensores  
 
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
