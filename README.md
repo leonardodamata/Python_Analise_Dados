@@ -201,6 +201,17 @@
 
 1. [Mini-Projeto3](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/3/Mini-Projeto3.ipynb) - Mini-Projeto  3  vamos  apresentar  a  você  um  Guia  de  Modelagem  Preditiva  com Python e TensorFlow. O  objetivo é trazer o processo de Machine Learning de ponta a ponta e então  mostrar  em  alto  nível  cada  etapa  necessária  para  construir,  treinar,  avaliar  e fazer previsões com o modelo.
 
+1. [Machine Learning](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/3/Machine_Learning.ipynb) - O machine learning (ML) é o processo pelo qual os computadores desenvolvem o reconhecimento de padrões ou a capacidade de aprender continuamente ou fazer previsões com base em dados, e então, fazer ajustes sem serem especificamente programados para isso.
+
+    - 1- Workflow
+
+      <img src="/imagem/Workflow.png" alt="Workflow"/>  
+
+    - 2- Training Overview
+
+      <img src="/imagem/Treinamento.png" alt="Training Overview"/>  
+
+
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
