@@ -211,6 +211,10 @@
 
       <img src="/imagem/Treinamento.png" alt="Training Overview"/>  
 
+    - 3- Confusion Matrix
+
+      <img src="/imagem/Confusion Matrix.jpg" alt="Confusion Matrix"/>    
+
 
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
