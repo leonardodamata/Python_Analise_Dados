@@ -213,7 +213,7 @@
 
     - 3- Confusion Matrix
 
-      <img src="/imagem/Confusion Matrix.jpg" alt="Confusion Matrix"/>    
+      <img src="/imagem/ConfusionMatrix.jpg" alt="Confusion Matrix"/>    
 
 
 
