@@ -215,7 +215,7 @@
 
       <img src="/imagem/ConfusionMatrix.jpg" alt="Confusion Matrix"/>    
 
-1. [Flask](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Machine_Learning.ipynb) - Introdução ao Desenvolvimento Web - Flask: Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
+1. [Flask](https://github.com/leonardodamata/Python_Analise_Dados/tree/main/aplicacao_web/01-PrimeirosPassos) - Introdução ao Desenvolvimento Web - Flask: Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
