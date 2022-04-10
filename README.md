@@ -199,7 +199,7 @@
     - Usando Variáveis
     - Outras Formas de Criar Tensores  
 
-1. [Mini-Projeto3](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/3/Mini-Projeto3.ipynb) - Mini-Projeto  3  vamos  apresentar  a  você  um  Guia  de  Modelagem  Preditiva  com Python e TensorFlow. O  objetivo é trazer o processo de Machine Learning de ponta a ponta e então  mostrar  em  alto  nível  cada  etapa  necessária  para  construir,  treinar,  avaliar  e fazer previsões com o modelo.
+1. [Mini-Projeto3](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/3/Mini-Projeto3.ipynb) - Mini-Projeto 3  vamos  apresentar  a  você  um  Guia  de  Modelagem  Preditiva  com Python e TensorFlow. O  objetivo é trazer o processo de Machine Learning de ponta a ponta e então  mostrar  em  alto  nível  cada  etapa  necessária  para  construir,  treinar,  avaliar  e fazer previsões com o modelo.
 
 1. [Machine Learning](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Machine_Learning.ipynb) - O machine learning (ML) é o processo pelo qual os computadores desenvolvem o reconhecimento de padrões ou a capacidade de aprender continuamente ou fazer previsões com base em dados, e então, fazer ajustes sem serem especificamente programados para isso.
 
@@ -216,6 +216,17 @@
       <img src="/imagem/ConfusionMatrix.jpg" alt="Confusion Matrix"/>    
 
 1. [Flask](https://github.com/leonardodamata/Python_Analise_Dados/tree/main/aplicacao_web/01-PrimeirosPassos) - Introdução ao Desenvolvimento Web - Flask: Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
+
+1. [Mini-Projeto4](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/4/app.py) - Mini-Projeto 4  Jogando com o Matias - IA Via Browser.
+
+  Para treinar o modelo, execute:
+
+    python deep_reinforcement_learning.py
+
+
+  Para executar a app, digite:
+
+    python app.py
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
