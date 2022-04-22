@@ -228,6 +228,8 @@
 
     python app.py
 
+1. [Web Scraping](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/web-scraping.ipynb) - A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada para posterior análise. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa.     
+
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
 - [Lab03/forca_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab03/forca_v1.py) - Jogo da Forca em Python
