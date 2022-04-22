@@ -217,6 +217,9 @@
 
 1. [Flask](https://github.com/leonardodamata/Python_Analise_Dados/tree/main/aplicacao_web/01-PrimeirosPassos) - Introdução ao Desenvolvimento Web - Flask: Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
 
+
+1. [Web Scraping](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/web-scraping.ipynb) - A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada para posterior análise. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa.
+
 1. [Mini-Projeto4](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/4/app.py) - Mini-Projeto 4  Jogando com o Matias - IA Via Browser.
 
   Para treinar o modelo, execute:
@@ -228,7 +231,7 @@
 
     python app.py
 
-1. [Web Scraping](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/web-scraping.ipynb) - A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada para posterior análise. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa.     
+
 
 - [Lab01/game_v1.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab01/game_v1.py) - Desenvolvendo Game em Python
 - [Lab02/calculator.py](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Lab02/calculator.py) - Desenvolvendo um calculadora em Python
