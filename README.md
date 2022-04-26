@@ -220,6 +220,10 @@
 
 1. [Web Scraping](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/web-scraping.ipynb) - A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada para posterior análise. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa.
 
+1. [Web Scraping - Expressões Regulares](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/web-scraping-expressao-regurales.ipynb) - Expressões regulares são normalmente o meio padrão para limpar e tratar dados nessas ferramentas. Seja extração de partes específicas de textos de páginas html, obtenção de informação sobre dados do Twitter or preparação de dados para mineração de textos – Expressões Regulares são a melhor aposta para resolver todas essas questões.
+
+1. [Web Scraping - Pandas](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/web-scraping-pandas.ipynb) - Web scraping em Python com lxml e pandas.
+
 1. [Mini-Projeto4](https://github.com/leonardodamata/Python_Analise_Dados/blob/main/Mini_Projeto/4/app.py) - Mini-Projeto 4  Jogando com o Matias - IA Via Browser.
 
   Para treinar o modelo, execute:
